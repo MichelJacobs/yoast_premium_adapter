@@ -1,0 +1,29 @@
+{
+	"name": "Yoast_Premium_Plugin",
+	"version": "0.4.3",
+	"download_url": "https://yoast.fukugyo-knowhow.com/assets/yoast_premium_adapter.zip",
+
+	"homepage": "https://note.com/subjob5000/circle",
+	"requires": "5.6",
+	"last_updated": "2021-02-11 16:17:00",
+	"upgrade_notice": "Yoast_Premium_Plugin が更新されました",
+
+	"author": "副業ノウハウ",
+
+	"sections": {
+		"description": "固定ページ、投稿およびカスタム投稿のタイトル・",
+		"installation": "このプラグインはプラグインページにインストールできます。"
+		
+	},
+	
+
+	"banners": {
+		"low": "http://yoast.fukugyo-knowhow.com//assets/img/banner.png",
+		"high": "http://yoast.fukugyo-knowhow.com//assets/img/banner.png"
+	},
+	"rating": 90,
+	"num_ratings": 75,
+
+	"downloaded": 3456,
+	"active_installs": 768
+}
